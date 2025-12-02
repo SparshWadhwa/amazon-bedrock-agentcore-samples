@@ -1,4 +1,4 @@
-# Integrate your API Gateway into AgentCore Gateway Target
+# Integrate your API Gateway as an AgentCore Gateway Target
 
 ## Overview
 
