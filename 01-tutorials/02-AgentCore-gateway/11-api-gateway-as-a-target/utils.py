@@ -310,7 +310,6 @@ def create_and_deploy_api_from_openapi_with_extensions(filename='AgentCore_Sampl
         print(f"API Gateway Deployment Complete")
         print(f"{'='*70}")
         print(f"Invoke URL: {invoke_url}")
-        print(f"API Key: {api_key_value}")
         print(f"\nEndpoint Authorization:")
         print(f"  • GET /pets              → AWS IAM (SigV4)")
         print(f"  • POST /pets             → AWS IAM (SigV4)")
