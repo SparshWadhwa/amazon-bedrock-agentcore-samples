@@ -46,4 +46,4 @@ With this integration, customers will no longer have to manage this export/impor
 ## Tutorial architecture
 
 This tutorial serves as a practical example of the broader enterprise challenge: **How to integrate   API Gateway API into a centralized Gateway architecture for your next generation agentic applications.**
-Start the [tutorial here](/01-api-gateway-target.ipynb).
+Start the [tutorial here](01-api-gateway-target.ipynb).
